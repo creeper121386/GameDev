@@ -1,0 +1,1 @@
+window.Global={CanControlPlayer:!1,PlayerX:0,PlayerY:0,debug:!0,deepdebug:!0,pressEnter:!1,holdedItem:null,neverClickItem:!0,getNewItem:null,foundEye:!1,foundBattery:!1,getpwd:!1,seenComputer:!1,getTimeMachine:!1,getGuider:!1};

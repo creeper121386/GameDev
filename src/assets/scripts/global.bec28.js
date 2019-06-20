@@ -1,1 +1,0 @@
-window.Global={FirstLoadScene:!0};
